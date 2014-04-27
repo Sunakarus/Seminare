@@ -1,0 +1,6 @@
+c:\users\hanthi\Disk Google\Dropbox\Projects\Seminare\Seminare\bin\Release\Seminare.exe.config
+c:\users\hanthi\Disk Google\Dropbox\Projects\Seminare\Seminare\bin\Release\Seminare.exe
+c:\users\hanthi\Disk Google\Dropbox\Projects\Seminare\Seminare\bin\Release\Seminare.pdb
+c:\users\hanthi\Disk Google\Dropbox\Projects\Seminare\Seminare\obj\Release\Seminare.exe
+c:\users\hanthi\Disk Google\Dropbox\Projects\Seminare\Seminare\obj\Release\Seminare.pdb
+c:\users\hanthi\Disk Google\Dropbox\Projects\Seminare\Seminare\obj\Release\Seminare.csprojResolveAssemblyReference.cache
