@@ -8,7 +8,7 @@ Marketa,CH,Z,AJ,F,D,EVV,HIGE,FJ,NJ
 TomasM,Z,CH,D,EVV,AJ,FJ,Z,NJ,HIGE
 Andrea,CH,F,AJ,NJ,D,FJ,EVV,Z,HIGE
 Vojta,F,D,Z,HIGE,CH,AJ,FJ,EVV,NJ
-Filip,F,CH,D,HIGE,Z,AJ,FJ,EVV,NJ
+FilipM,F,CH,D,HIGE,Z,AJ,FJ,EVV,NJ
 Eliska,NJ,D,Z,AJ,EVV,HIGE,CH,F,FJ
 Pedro,CH,D,F,FJ,AJ,Z,EVV,HIGE,NJ
 Veronika,d,Z,AJ,EVV,F,NJ,CH,HIGE,FJ
@@ -19,9 +19,14 @@ Matej,HIGE,AJ,nj,EVV,D,Z,F,CH,Fj
 MartinK,AJ,HIGE,Z,D,EVV,F,CH,NJ,FJ
 MichalO,AJ,Z,HIGE,NJ,F,CH,D,EVV,FJ
 Dan,Z,HIGE,NJ,AJ,D,EVV,CH,F,FJ
-Kristyna,D,FJ,AJ,HIGE,EVV,Z,CH,F,NJ
+KristynaF,D,FJ,AJ,HIGE,EVV,Z,CH,F,NJ
 Petra,D, CH, FJ, AJ, HIGE, F, Z, EVV, NJ
 KrystofH, D, HiGe, AJ, Z, NJ, EVV, CH, F, FJ
 BaraK, Nj, Aj, Evv,D,Z,CH,Hige,F,fj
 MartinB,Z,HiGe,Aj,F,Ch,EVV,Nj,Fj,D
-Bruno,Z, D, CH, HiGe, F, EVV, AJ, NJ, FJ
+Bruno,Z, D, CH, HiGe, F, AJ, EVV, NJ, FJ
+Viktorie,Aj, Fj, Evv, Z,Ch, D, HiGe, F,nj
+FilipN, Aj,Z,Hige,D,Ch,EVV,Nj,F,Fj
+KristynaS,Aj,Z,HiGe,D,Nj,EVV,F,Ch,Fj
+Karlos, Aj,Z,HiGe,F,Nj,CH,EVV,Fj,D
+Lucka, Aj, HiGe, D, Z, F, Evv, Nj, Ch, Fj
